@@ -31,4 +31,5 @@ print(f"\nTotal rooms booked: {total_rooms_booked}")
 print(f"Total income generated: ${total_income}")
 print(f"Suites booked: {suites_booked}")
 print(f"Average income per room: ${average_income}")
-print(f"Highest priced room per night was {exp_room}at ${highest_price}")
+
+print(f"Highest priced room per night was {exp_room} at ${highest_price}")
